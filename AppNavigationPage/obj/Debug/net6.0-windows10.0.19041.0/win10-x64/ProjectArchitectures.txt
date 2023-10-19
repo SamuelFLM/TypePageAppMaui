@@ -1,0 +1,1 @@
+C:\temp\ws-dotnet\TiposPaginas\AppNavigationPage\AppNavigationPage.csproj;x64

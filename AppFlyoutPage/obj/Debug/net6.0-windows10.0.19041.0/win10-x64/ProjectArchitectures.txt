@@ -1,0 +1,1 @@
+C:\temp\ws-dotnet\TiposPaginas\AppFlyoutPage\AppFlyoutPage.csproj;x64

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppFlyoutPage
+build_property.ProjectDir = C:\temp\ws-dotnet\TiposPaginas\AppFlyoutPage\
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/FlyoutPageMenu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.FlyoutPageMenu.xaml
+build_metadata.AdditionalFiles.TargetPath = FlyoutPageMenu.xaml
+build_metadata.AdditionalFiles.RelativePath = FlyoutPageMenu.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/Menu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.Menu.xaml
+build_metadata.AdditionalFiles.TargetPath = Menu.xaml
+build_metadata.AdditionalFiles.RelativePath = Menu.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/NewPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.NewPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage2.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/NewPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.NewPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage3.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/temp/ws-dotnet/TiposPaginas/AppFlyoutPage/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppFlyoutPage.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
